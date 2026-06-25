@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655396516373",
+    "project_id": "acne-ai-project",
+    "storage_bucket": "acne-ai-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655396516373:android:8f69bbaa8f8c9e449f541c",
+        "android_client_info": {
+          "package_name": "com.example.my_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655396516373-smco5mfpa1o7mn1uirpckas1aoook384.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_mobile_app",
+            "certificate_hash": "5e0050ce98ac88db39e7526210fe3149091c479e"
+          }
+        },
+        {
+          "client_id": "655396516373-g1m5urqamrric3v18p86thtqtksf0jm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655396516373-g1m5urqamrric3v18p86thtqtksf0jm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655396516373-ktuiqjq8j213js7j43ebgu5s5r6olfa1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
